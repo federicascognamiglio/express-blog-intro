@@ -18,6 +18,10 @@ app.get("/bacheca", (req, res) => {
 });
 
 // SERVER LISTENING 
+// app.listen(port, () => {
+//     console.log("Server is listening");
+// });
+
 app.listen(port, () => {
-    console.log("Server is listening");
-});
+    console.log(`Server is listening on http://localhost:${port}`);
+  });

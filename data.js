@@ -7,7 +7,7 @@ const posts = [
     },
     {
         title: "Cracker alla barbabietola",
-        content: "Cracker alla barbabietola. Un tocco di creatività che unisce sapore, benessere",
+        content: "Cracker alla barbabietola. Perfetto per aggiungere un tocco di creatività che unisce sapore e benessere.",
         img: "./images/cracker_barbabietola.jpeg",
         tags: ["#CrackerAllaBarbabietola", "#HealthySnacks", "#SnackSano"]
     },
